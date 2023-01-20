@@ -1,4 +1,4 @@
-package com.example.traininquiry.train_inquiry
+package com.example.train_inquiry_v2
 
 import io.flutter.embedding.android.FlutterActivity
 
